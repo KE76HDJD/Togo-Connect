@@ -1,0 +1,24 @@
+/* Style institutionnel sobre — vert Togo */
+.block-container { max-width: 1280px; padding-top: 1.4rem; }
+h1 { color: #0B2C4D !important; font-weight: 700 !important; font-size: 1.65rem !important; }
+h2, h3 { color: #0B2C4D !important; font-weight: 600 !important; }
+.kpi-row { display: flex; gap: 14px; margin: 12px 0 20px 0; flex-wrap: wrap; }
+.kpi { background: #fff; border-radius: 10px; padding: 16px 18px; flex: 1; min-width: 180px;
+  border: 1px solid #E3E9EF; border-top: 3px solid #00693E; }
+.kpi.orange { border-top-color: #FF7900; }
+.kpi.blue { border-top-color: #0066B3; }
+.kpi.red { border-top-color: #D7263D; }
+.kpi .v { font-size: 28px; font-weight: 750; color: #0B2C4D; line-height: 1.1; }
+.kpi .l { font-size: 13px; color: #425466; margin-top: 2px; font-weight: 600; }
+.kpi .s { font-size: 12px; color: #5B6B7B; margin-top: 4px; }
+.badge { display: inline-block; padding: 2px 10px; border-radius: 20px;
+  font-size: 12px; font-weight: 700; color: #fff; }
+.badge.p1 { background: #D7263D; } .badge.p2 { background: #B96A00; }
+.badge.p3 { background: #00693E; } .badge.info { background: #0066B3; }
+.card { background: #fff; border-radius: 10px; padding: 16px 20px;
+  border: 1px solid #E3E9EF; margin-bottom: 14px; }
+.card h4 { margin: 0 0 8px 0; color: #0B2C4D; font-size: 1rem; }
+.card p, .card div { color: #33475B; }
+section[data-testid="stSidebar"] { background: #00693E; }
+section[data-testid="stSidebar"] * { color: #fff !important; }
+section[data-testid="stSidebar"] a { color: #fff !important; }

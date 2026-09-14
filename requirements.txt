@@ -1,0 +1,12 @@
+# Versions exactes testees (Python 3.12, Streamlit 1.63) - Definir par ANKOU Yaokouma Kevin
+# Installation : pip install -r requirements.txt
+pandas==3.0.5
+pyarrow==25.0.1
+streamlit==1.63.0
+streamlit-folium==0.27.4
+folium==0.20.0
+plotly==7.0.0
+matplotlib==3.11.0
+python-pptx==1.0.2
+Pillow==10.2.0
+lxml==6.1.1
